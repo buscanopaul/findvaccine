@@ -35,6 +35,32 @@
                      "untilDate":"2021-06-30"
                   }
                ]
+            },
+            {
+               "barangayName":"tondo",
+               "schools":[
+                  {
+                     "schoolName":"Tondo High School",
+                     "vaccineType":"sinovac",
+                     "totalVaccinated":100,
+                     "vaccineLeft":50,
+                     "untilDate":"2021-07-15"
+                  },
+                  {
+                     "schoolName":"APEC School",
+                     "vaccineType":"astrazenica",
+                     "totalVaccinated":0,
+                     "vaccineLeft":500,
+                     "untilDate":"2021-06-30"
+                  },
+                  {
+                     "schoolName":"Florentino Torres High School",
+                     "vaccineType":"astrazenica",
+                     "totalVaccinated":0,
+                     "vaccineLeft":500,
+                     "untilDate":"2021-06-30"
+                  }
+               ]
             }
          ],
          "country":"philippines"
