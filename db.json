@@ -18,17 +18,19 @@
          "city":"manila",
          "barangay":[
             {
-               "barangayName":"Balut",
+               "barangayName":"balut",
                "schools":[
                   {
-                     "schoolName":"Balut High School",
+                     "schoolName":"AH Lacson Elementary School",
+                     "schoolAddress": "Younger St, Tondo, Manila, Metro Manila",
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
-                     "schoolName":"Paez High School",
+                     "schoolName":"T Paez Integrated School",
+                     "schoolAddress": "Balut, Younger St, Tondo, Tondo VII, Metro Manila",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
