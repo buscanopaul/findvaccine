@@ -18,17 +18,17 @@
          "city":"manila",
          "barangay":[
             {
-               "barangayName":"alicia",
+               "barangayName":"Balut",
                "schools":[
                   {
-                     "schoolName":"alicia high school",
+                     "schoolName":"Balut High School",
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
-                     "schoolName":"amado. hernandez elementary school",
+                     "schoolName":"Paez High School",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
@@ -72,14 +72,21 @@
                "barangayName":"alicia",
                "schools":[
                   {
-                     "schoolName":"alicia high school",
+                     "schoolName":"Alicia High School",
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
-                     "schoolName":"amado. hernandez elementary school",
+                     "schoolName":"Quezon City Academy",
+                     "vaccineType":"astrazenica",
+                     "totalVaccinated":0,
+                     "vaccineLeft":500,
+                     "untilDate":"2021-06-30"
+                  },
+                  {
+                     "schoolName":"Jose Abad Santos Memorial School",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
