@@ -8,6 +8,7 @@
                "schools":[
                   {
                      "schoolName":"AH Lacson Elementary School",
+                     "schoolId": 202101,
                      "schoolAddress": "Younger St, Tondo, Manila, Metro Manila",
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
@@ -16,6 +17,7 @@
                   },
                   {
                      "schoolName":"T Paez Integrated School",
+                     "schoolId": 202102,
                      "schoolAddress": "Balut, Younger St, Tondo, Tondo VII, Metro Manila",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
@@ -29,6 +31,8 @@
                "schools":[
                   {
                      "schoolName":"Tondo High School",
+                     "schoolId": 202103,
+                     "schoolAddress": "Cristobal St, Tondo, Manila, Metro Manila",
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
@@ -36,6 +40,8 @@
                   },
                   {
                      "schoolName":"APEC School",
+                     "schoolId": 202104,
+                     "schoolAddress": "2300 Gamban St, Tondo, Manila, Metro Manila",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
@@ -43,6 +49,8 @@
                   },
                   {
                      "schoolName":"Florentino Torres High School",
+                     "schoolId": 202105,
+                     "schoolAddress": "173-174 Tondo III, Juan Luna St, Tondo, Manila, Metro Manila",
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
