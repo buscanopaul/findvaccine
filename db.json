@@ -7,18 +7,22 @@
                "barangayName":"balut",
                "schools":[
                   {
-                     "schoolName":"AH Lacson Elementary School",
                      "schoolId": 202101,
+                     "schoolName":"AH Lacson Elementary School",
                      "schoolAddress": "Younger St, Tondo, Manila, Metro Manila",
+                     "lon": 14.628882,
+                     "lat": 120.967422,
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
-                     "schoolName":"T Paez Integrated School",
                      "schoolId": 202102,
+                     "schoolName":"T Paez Integrated School",
                      "schoolAddress": "Balut, Younger St, Tondo, Tondo VII, Metro Manila",
+                     "lon": 14.6306319,
+                     "lat": 120.967375,
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
@@ -30,27 +34,33 @@
                "barangayName":"tondo",
                "schools":[
                   {
-                     "schoolName":"Tondo High School",
                      "schoolId": 202103,
+                     "schoolName":"Tondo High School",
                      "schoolAddress": "Cristobal St, Tondo, Manila, Metro Manila",
+                     "lon": 14.6106298,
+                     "lat": 120.961098,
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
-                     "schoolName":"APEC School",
                      "schoolId": 202104,
+                     "schoolName":"APEC School",
                      "schoolAddress": "2300 Gamban St, Tondo, Manila, Metro Manila",
+                     "lon": 14.6282858,
+                     "lat": 120.9641056,
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
                      "untilDate":"2021-06-30"
                   },
                   {
-                     "schoolName":"Florentino Torres High School",
                      "schoolId": 202105,
+                     "schoolName":"Florentino Torres High School",
                      "schoolAddress": "173-174 Tondo III, Juan Luna St, Tondo, Manila, Metro Manila",
+                     "lon": 14.6273156,
+                     "lat": 120.9727147,
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
@@ -68,21 +78,33 @@
                "barangayName":"alicia",
                "schools":[
                   {
+                     "schoolId": 202106,
                      "schoolName":"Jose Abad Santos Memorial School",
+                     "schoolAddress": "51 Congressional Ave, Project 8, Quezon City, Metro Manila",
+                     "lon": 14.6629486,
+                     "lat": 121.0192903,
                      "vaccineType":"sinovac",
                      "totalVaccinated":100,
                      "vaccineLeft":50,
                      "untilDate":"2021-07-15"
                   },
                   {
+                     "schoolId": 202107,
                      "schoolName":"Quezon City Academy",
+                     "schoolAddress": "1010 Epifanio de los Santos Ave, Bago Bantay, Quezon City, 1105 Metro Manila",
+                     "lon": 14.656868,
+                     "lat": 121.025946,
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
                      "untilDate":"2021-06-30"
                   },
                   {
-                     "schoolName":"Jose Abad Santos Memorial School",
+                     "schoolId": 202108,
+                     "schoolName":"Batasan Hills National High School",
+                     "schoolAddress": "Batasan Rd, Quezon City, 1126 Metro Manila",
+                     "lon": 14.6891559,
+                     "lat": 121.0927632,
                      "vaccineType":"astrazenica",
                      "totalVaccinated":0,
                      "vaccineLeft":500,
