@@ -117,6 +117,10 @@
       }
    ],
    "users":[
-   
+      {
+         "id": 1,
+         "firstName": "Post 1",
+         "lastName": "Post 2"
+      }
    ]
 }
